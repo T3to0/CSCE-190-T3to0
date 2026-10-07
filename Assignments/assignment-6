@@ -1,4 +1,12 @@
 Group Name: Chara C. TJ Nguyen
 
 Problem Statement:
-Building a system that wakes up a student that is having trouble waking up in the morning for classes. A better alarm clock.
+USC lacks a centeralized way to track events; pop-up events and stands.
+
+Solution:
+  - Calendar for school events/notifcations for pop-up events outside of Russell House
+Criteria for problem:
+  - Needs to be wildly avaliable
+  - People need to use it
+  - Updated regularly
+
